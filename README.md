@@ -79,4 +79,4 @@ Ambitious but grounded; my ideas are never abstract—they’re roadmapped, regi
 
 ---
 
-> “Purposeful platforms. Practical impact. Proudly building the future—starting from Ethiopia.”
+> “Purposeful platforms. Practical impact. Proudly building the future, starting from Ethiopia.”
