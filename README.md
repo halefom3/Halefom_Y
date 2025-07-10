@@ -31,7 +31,7 @@ Helping businesses structure themselves for growth through business planning, st
 
 - **WorkReady+ Navigator:**  
   A mobile-first career prep platform for young job seekers.  
-  → Matching users with careers, building job-ready skills, and offering offline, localized content—a scalable answer to Ethiopia’s youth unemployment.
+  → Matching users with careers, building job-ready skills, and offering offline, localized content, a scalable answer to Ethiopia’s youth unemployment.
 
 - **Self-Craft Center:**  
   A personal development hub for young talent.  
@@ -53,13 +53,13 @@ Helping businesses structure themselves for growth through business planning, st
   I see both the forest and the root systems beneath the trees, turning big ideas into actionable frameworks and structured plans.
 
 - **Talent Development & Organizational Structuring:**  
-  Building systems to attract, grow, and retain meaningful talent—aligning people, purpose, and performance.
+  Building systems to attract, grow, and retain meaningful talent, aligning people, purpose, and performance.
 
 - **Data Analysis & Insight Generation:**  
   Turning raw data into stories, trends, and actionable leverage points for decision-making and strategy.
 
 - **Project Ideation & Execution:**  
-  Transforming concepts into phased plans, MVPs, and scalable solutions—rooted in real-world validation.
+  Transforming concepts into phased plans, MVPs, and scalable solutions, rooted in real-world validation.
 
 - **Communication & Narrative Crafting:**  
   Translating vision into narrative, from SEO blogs and landing pages to strategic documentation and engaging course language.
@@ -69,7 +69,7 @@ Helping businesses structure themselves for growth through business planning, st
 ## 🦸‍♂️ Superpower
 
 **Vision anchoring in practicality.**  
-Ambitious but grounded; my ideas are never abstract—they’re roadmapped, regionally relevant, and always actionable.
+Ambitious but grounded; my ideas are never abstract, they’re roadmapped, regionally relevant, and always actionable.
 
 ---
 
